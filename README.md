@@ -25,7 +25,7 @@
 
 ### 💻 Langages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,dart,bash" />
+  <img src="https://skillicons.dev/icons?i=python,js,tsdart,bash" />
 </p>
 
 ### 🚀 Frameworks et Outils
