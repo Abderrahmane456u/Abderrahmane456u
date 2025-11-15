@@ -14,7 +14,7 @@
 ## 🔥 À propos de moi
 
 - 🎓 Étudiant en **Développement Informatique (DI)**  
-- 🧠 Passionné par : Python, FastAPI, Flask, Flutter, DevOps  
+- 🧠 Passionné par : développement mobile,devops,développement logiciel  
 - 🌍 Objectif : devenir Développeur Full Stack 
 - 🛠️ Je développe des APIs sécurisées (JWT, bcrypt, refresh tokens)  
 - 📚 Toujours en apprentissage constant  
