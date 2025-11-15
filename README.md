@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Développeur Full Stack • Python • FastAPI • Flask • Flutter • JavaScript</b><br>
+  <b>Développeur Full Stack </b><br>
   Passionné par le développement web, mobile, cloud et les API sécurisées (JWT)
 </p>
 
