@@ -74,7 +74,7 @@
 ## 📫 Me contacter
 
 📧 Email : *(abderahd12@gmail.com)*  
-🔗 LinkedIn : *(https://www.linkedin.com/in/abderrahmane-houdoud/)*  
+🔗 LinkedIn : *(https://www.linkedin.com/in/houdoud-abderrahmane/)*  
 
 ---
 
